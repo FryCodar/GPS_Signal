@@ -20,6 +20,8 @@ disabledAI = 1;
 
 
 //Important for Communication 
+//Copy this in yourt Description.ext or .hpp File 
+
 
 class CfgRemoteExec
 {
